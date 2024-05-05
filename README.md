@@ -8,4 +8,4 @@ The following are referenced in the report:
 - "02 MINIAUDIO-OPENFRAMEWORKS" is the first use of Miniaudio and openFrameworks together. Intended to be a waveform display and nothing more.
 - "03 MA-OF-SOUNDSCAPE" is the first creation of a soundscape using Miniaudio and openFrameworks. User can change soundscape by moving on the grid.
 - "04 MINISOUNDSCAPE-V1" is the first draft of Minisoundscape and lacks several features such as spatialisation, and is also less optimised and worsely formatted\n
-- "05 MINISOUNDSCAPE-V2" is a rewrite of the above, with optimisations, spatialisation, and better formatting
+- "05 MINISOUNDSCAPE-V2" is a rewrite of the above, with optimisations, spatialisation, and better formatting - missing some polish that is present in the final product, examples, & ofxMinisoundscape
